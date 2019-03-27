@@ -20,3 +20,6 @@
 
   使用IDEA作为编程工具。
 
+- 运行时截图
+
+  ![picture](https://github.com/sunSUNQ/MY_Sniffer/raw/master/picture/running.jpg)
