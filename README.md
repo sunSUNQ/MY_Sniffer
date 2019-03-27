@@ -7,6 +7,8 @@
   使用jdk1.8.0_201里边的jre。
 
   加上Jpcap，由于Jpcap是基于winpcap实现的，因此需要下载安装winpcap以及jpcap。
+  
+  配置jpcap有很多的教程，直接百度就可以。
 
   直接在命令行输入以下命令既可以打开程序。（请不要直接双击sun.jar，无法运行）
 
@@ -18,6 +20,3 @@
 
   使用IDEA作为编程工具。
 
-- sun_sniffer.webm 为录屏文件
-
-  可使用暴风影音打开。
